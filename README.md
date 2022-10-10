@@ -1,4 +1,10 @@
-小組作業 1: 顯示在小組的github 上，請列出專案的組長與組員之姓名，個別組員的任務，專題題目，內容，甘特圖與PERT/CPM圖 (期限: A班 10/10 , B班10/11)
+**小組作業1** : 
+顯示在小組的github上，請列出專案的
+- 組長與組員之姓名
+- 個別組員的任務
+- 專題題目
+- 內容
+- 甘特圖與PERT/CPM圖 (期限: A班 10/10 , B班10/11)
 
 ## 專案組別: 9
 
@@ -24,9 +30,11 @@
 
 ### 甘特圖
 
-### Mermaid
 
+- google繪製版本
 ![甘特圖](https://user-images.githubusercontent.com/57654809/194913391-47057987-89f4-4a24-86b4-0ccddf0ecb20.png)
+
+- mermaid繪製版本
 
 ```mermaid
 
@@ -44,8 +52,7 @@ gantt
     section 第三階段    
     前端開發      :c1,after b3 , 12d
     資料庫建立      :c2 ,after b3, 12d
-    後端開發:c3 ,after b3, 12d
-    
+    後端開發	:c3 ,after b3, 12d
     section 第四階段    
     系統整合:d1,2022-12-2 , 7d
     測試、修改: d2, after d1 , 10d
@@ -55,43 +62,11 @@ gantt
 
 ### PERT/CPM圖
 
-![image](https://user-images.githubusercontent.com/57654809/194913530-bee24e8f-ccb6-407b-832b-d13519a7ea62.png)
+- google繪製版本
+![image2](https://user-images.githubusercontent.com/57654809/194913530-bee24e8f-ccb6-407b-832b-d13519a7ea62.png)
 
-```graphviz
-digraph {
-	node[shape=record];
-	rankdir="LR";
-    no1 [label = "題目構想| 編號:1 | 開始:第1天 | 結束:第10天 | 需時:7天"]
-    no2 [label = "需求構想|開始: 第9天  |編號: 2|結束: 第17天 | 需時:8天|
-"]
-    no3 [label = "功能構想 |開始: 第18天 | 編號: 3| 結束: 第28天  |需時:10天"]
-    no1->no2
-    no2->no3
-    
-    no4 [label = "市場分析|開始: 第29天  |編號: 4|結束: 第37天  |需時:8天
-"]
-    no5 [label = 客群分析|開始: 第29天  |編號: 5|結束: 第37天  |需時:8天
-"]  
-    no3->no4
-    no3->no5
-    no6 [評估可行性 | label = 開始: 第38天  |編號: 6|結束: 第46天  |需時:8天"]  
-    no4->no6
-    no5->no6
-    no7 [label = 前端開發|開始: 第47天|編號:7|結束: 第59天|需時:12天"]  
-    no8 [label = 資料庫建立|開始: 第47天|編號:8|結束:第59天|需時:12天"]  
-    no9 [label = 後端開發|開始: 第47天|編號:9|結束: 第59天  |需時:12天"]     no6->no7
-    no6->no8
-    no6->no9
-    no10 [label =系統整合|開始: 第60天|編號:10|結束: 第67天 |需時:7天"]
-    no7->no19
-    no8->no10
-    no9->no10
-    no11 [label =測試、修改|開始: 第68天|編號: 11|結束: 第78天|需時:10天
-"]
-    no12 [label =成品展示|開始: 第79天|編號: 12|結束: 第84天|需時:5天"]
-    no10->no11
-    no11->no12
+- mermaid繪製版本
 
-}
-   
-```
+[PERT圖繪製版本連結](https://hackmd.io/@cjqBX7RDSMSJUP0adJLUmw/rkDcmRbmj)
+![image1](https://user-images.githubusercontent.com/57654809/194921178-9523aca4-c214-4174-aa56-570bd8a2b2ea.png)
+
