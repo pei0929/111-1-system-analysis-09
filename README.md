@@ -31,8 +31,6 @@
 ### 甘特圖
 
 
-- google繪製版本
-![甘特圖](https://user-images.githubusercontent.com/57654809/194913391-47057987-89f4-4a24-86b4-0ccddf0ecb20.png)
 
 - mermaid繪製版本
 
