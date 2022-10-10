@@ -26,6 +26,8 @@
 
 ### Mermaid
 
+![甘特圖](https://user-images.githubusercontent.com/57654809/194913391-47057987-89f4-4a24-86b4-0ccddf0ecb20.png)
+
 ```mermaid
 
 gantt
@@ -52,6 +54,8 @@ gantt
 ```
 
 ### PERT/CPM圖
+
+![image](https://user-images.githubusercontent.com/57654809/194913530-bee24e8f-ccb6-407b-832b-d13519a7ea62.png)
 
 ```graphviz
 digraph {
