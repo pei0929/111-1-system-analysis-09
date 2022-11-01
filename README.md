@@ -199,3 +199,23 @@ main-->a3;
 
 ### 作業3內容 系統環境圖及圖0: 
 ![DFD](https://user-images.githubusercontent.com/57654809/198677743-8b13c8b5-8c54-4f43-ac78-f01e260754b6.png)
+
+
+```mermaid
+sequenceDiagram
+使用者->>+分析系統:選擇條件(性別、年齡、區域、發生時間、查獲情況)
+activate 使用者
+deactivate 使用者
+activate 分析系統
+deactivate 分析系統
+使用者->>+分析系統:選擇呈現方式(文字雲、多項統計圖)
+activate 使用者
+deactivate 使用者
+activate 分析系統
+deactivate 分析系統
+分析系統-->>-使用者:顯示結果
+activate 使用者
+deactivate 使用者
+activate 分析系統
+deactivate 分析系統
+```
