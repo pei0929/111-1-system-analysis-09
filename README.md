@@ -201,6 +201,42 @@ main-->a3;
 ![DFD](https://user-images.githubusercontent.com/57654809/198677743-8b13c8b5-8c54-4f43-ac78-f01e260754b6.png)
 
 
+---
+
+## week8小組作業4:
+
+### 類別圖
+
+<img width="591" alt="image" src="https://user-images.githubusercontent.com/57654809/199747742-21ac9cff-bc71-4fdc-b6ff-5137769d039a.png">
+
+### 實用案例1 
+
+- 循序圖
+
+<img width="433" alt="image" src="https://user-images.githubusercontent.com/57654809/199748705-5f11885a-1af3-47c8-9519-52070a6272ca.png">
+
+- 活動圖
+
+<img width="571" alt="image" src="https://user-images.githubusercontent.com/57654809/199748757-dd513df7-7187-46c8-ace4-1ae769ebf570.png">
+
+
+### 實用案例2
+
+- 循序圖
+
+
+- 活動圖
+
+
+### 實用案例3
+
+- 循序圖
+
+
+- 活動圖
+
+
+
 ###循序圖-系統分析
 ```mermaid
 sequenceDiagram
