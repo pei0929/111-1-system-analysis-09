@@ -226,7 +226,7 @@ main-->a3;
 
 
 - 活動圖
-
+![image](https://user-images.githubusercontent.com/113969847/200119822-d22c36f7-9f12-43eb-aa66-14b000715521.png)
 
 ### 實用案例3
 
@@ -234,7 +234,7 @@ main-->a3;
 
 
 - 活動圖
-![image](https://user-images.githubusercontent.com/113969847/200119822-d22c36f7-9f12-43eb-aa66-14b000715521.png)
+
 
 
 
