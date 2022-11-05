@@ -223,21 +223,6 @@ main-->a3;
 ### 實用案例2
 
 - 循序圖
-
-
-- 活動圖
-![image](https://user-images.githubusercontent.com/113969847/200119822-d22c36f7-9f12-43eb-aa66-14b000715521.png)
-
-### 實用案例3
-
-- 循序圖
-
-
-- 活動圖
-
-
-
-
 ###循序圖-系統分析
 ```mermaid
 sequenceDiagram
@@ -257,3 +242,18 @@ deactivate 使用者
 activate 分析系統
 deactivate 分析系統
 ```
+
+- 活動圖
+![image](https://user-images.githubusercontent.com/113969847/200119822-d22c36f7-9f12-43eb-aa66-14b000715521.png)
+
+### 實用案例3
+
+- 循序圖
+
+
+- 活動圖
+
+
+
+
+
