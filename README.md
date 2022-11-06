@@ -249,6 +249,7 @@ deactivate 分析系統
 ### 實用案例3
 
 - 循序圖
+- ![NKUST](nkust.png "nkust")
 
 
 - 活動圖
